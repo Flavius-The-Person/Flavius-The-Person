@@ -1,4 +1,4 @@
-### Hi there, I'm Chris - aka [Flavius] 👋
+### Hi there, I'm Flavius 👋
 
 ## I'm a dog lover and a developer.
 - 🔭 I’m currently working on a game, Legions Live, which I am developing on my own mini-engine I built in Java. 
