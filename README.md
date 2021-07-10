@@ -1,8 +1,8 @@
-### Hi there, I'm Flavius 👋
+# Hi there, I'm Flavius 👋
 
-## I'm a dog lover and a developer.
-- 🔭 I’m currently working on a game, Legions Live, which I am developing on my own mini-engine I built in Java. 
-- 🌱 I’m currently learning C# and Javascript for when I decide to delve further into RPG Maker MV/Z (JS) or Monogame/Unity (C#) and move my current project onto one of these platforms.
+## I love dogs and enjoy developing things!
+- 🔭 I’m currently working on a game, RPGame Live, which I am developing in C#. Currently contemplating between trying to develop it with Blazor or in Monogame, Unity, or Godot. 
+- 🌱 I previously wrote an almost fully working engine in Java for the game but then decided it would be better to use an actual framework or engine meant for game development.
 
 ### Connect with me:
 
