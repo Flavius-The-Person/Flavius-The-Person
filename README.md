@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [Resume](https://resume.flavcreations.com)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/flavius-the-person" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flavius-the-person" height="30" width="40" /></a>
