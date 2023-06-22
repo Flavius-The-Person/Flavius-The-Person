@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Roleplay Game Live**
 
-- 📄 Know about my experiences [resume.flavcreations.com](https://resume.flavcreations.com)
+- 📄 Know about my experiences [Resume](https://resume.flavcreations.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
