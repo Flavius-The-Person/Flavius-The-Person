@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Roleplay Game Live**
 
-- 🌱 I’m currently learning **Blazor, Monogame, Web APIs, and various things between!**
-
-- 👯 I’m looking to collaborate on **Roleplay Game Live**
+- 🌱 I’m currently learning **Blazor, Unity, Monogame, Web APIs, and various things between!**
 
 - 📄 Know about my experiences [Resume](https://resume.flavcreations.com)
   
